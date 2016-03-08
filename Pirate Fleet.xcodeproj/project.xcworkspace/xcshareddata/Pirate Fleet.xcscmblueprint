@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "20A51652D59CE8FFBCFCF0F4B27B0D21427D5061",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "32DB2AE76EBCD6D3DE3258C1B15BF45A6A20F764" : 0,
+    "20A51652D59CE8FFBCFCF0F4B27B0D21427D5061" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "B97A8211-610D-422B-A23B-29F371E59626",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "32DB2AE76EBCD6D3DE3258C1B15BF45A6A20F764" : "..",
+    "20A51652D59CE8FFBCFCF0F4B27B0D21427D5061" : "Pirate%20Fleet\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Pirate Fleet",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Pirate Fleet.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/iliarose\/piratefleet.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "20A51652D59CE8FFBCFCF0F4B27B0D21427D5061"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/udacity\/ios-nanodegree-uikit-2.0.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "32DB2AE76EBCD6D3DE3258C1B15BF45A6A20F764"
+    }
+  ]
+}
